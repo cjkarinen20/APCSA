@@ -4,8 +4,4 @@ public class program
    {
       System.out.println("Hello, world!");
    }
-
-
-
-
 }
